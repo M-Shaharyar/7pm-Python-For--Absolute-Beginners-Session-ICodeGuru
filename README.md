@@ -1,4 +1,4 @@
-# Welcome to the 7pm-Python-For--Absolute-Beginners-Session-ICodeGuru
+# Welcome to the 7 pm-Python-For--Absolute-Beginners-Session-ICodeGuru
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, quizzes, and collaborative notebook links.
@@ -45,7 +45,7 @@ The repository contains all the course-relevant material, such as slides, quizze
     <tbody>
      <tr>
       <th>Days</th>
-      <th>Topic</th>
+      <th>Topics</th>
       <th>Video Links (Facebook)</br></th>
       <th>Material</th>
      </tr> 
@@ -89,7 +89,7 @@ The repository contains all the course-relevant material, such as slides, quizze
     <tbody>
      <tr>
       <th>Days</th>
-      <th>Topic</th>
+      <th>Topics</th>
       <th>Video Links (Facebook)</br></th>
       <th>Material</th>
      </tr> 
@@ -145,7 +145,7 @@ The repository contains all the course-relevant material, such as slides, quizze
     <tbody>
      <tr>
       <th>Days</th>
-      <th>Topic</th>
+      <th>Topics</th>
       <th>Video Links (Facebook)</br></th>
       <th>Material</th>
      </tr> 
@@ -188,3 +188,188 @@ The repository contains all the course-relevant material, such as slides, quizze
     </tr>
 </tbody>
 <table>
+
+
+# Week 04
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Assignment Review</b></td>
+       <td align="center"><a href="https://fb.watch/uuNYD8vSOA/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/15A74RHrXX9WVfiFTMj3zlfMtVXNgcY0X?usp=sharing">Notebook</a> </td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b>Functions</b></td>
+    <td align="center"><a href="https://fb.watch/uw6s5cK87X/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1Mi235Wj8U2Wu1zGpINtMk-gdaU5U8b43?usp=sharing">Notebook </a> </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+      <td align="center"><b>Function Problems </b></td>
+       <td align="center"><a href="https://fb.watch/uxqT9aSA6i/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1JAYQhS53Qdp7UsdgzM3FsiYZ9otsM-zb?usp=sharing">Notebook</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>lambda and Map Functions  </b></td>
+       <td align="center"><a href="https://fb.watch/uyLmNYKN5_/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1DdBJT-q34on2gqAzVFzWtLtOO_MKWxlL?usp=sharing">Notebook</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b> Filter Functions in Python </b></td>
+       <td align="center"><a href="https://fb.watch/uA3sF5XQa8/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/1PUwpNFeKtHy0H7v4705ZMn72olg6LoO7?usp=sharing">Notebook</a> </br>
+        </td>
+    </tr>
+</tbody>
+<table>
+
+# Week 05
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>File Handling</b></td>
+       <td align="center"><a href="https://fb.watch/uEiGJw_HLN/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/11dJKkKtWihY3oe0Ua934nVIf5M49RRHB?usp=sharing">Notebook</a> </td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b> Exception Handling, Python Scope</b></td>
+    <td align="center"><a href="https://fb.watch/uFkUFfgzfr/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/19TBsu8ZlFVYGtRygQtSE2WS5ewsIEaT9?usp=sharing">Exception Handling </a>
+                        <a href="https://colab.research.google.com/drive/1b6SJN6CYfTgm90w3g2BhVxNj-F3nmlNc?usp=sharing">Python Scope </a> </td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+      <td align="center"><b>Modules, Packages, Dates, JSON </b></td>
+       <td align="center"><a href="https://fb.watch/uGFhq0oAoJ/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1GbRyxUnVG0-97M0HfifBVYBCnqN3L3Ma?usp=sharing">Modules</a>
+                          <a href="https://colab.research.google.com/drive/1IFRcYfuBLhaDQV5zXkj1VG_U4NS5Y5WV?usp=sharing">Packages</a>
+                          <a href="https://colab.research.google.com/drive/1TtznfCFkI2FuNcS0Lf90Cbk_HsuNcrAM?usp=sharing">Dates</a>
+                          <a href="https://colab.research.google.com/drive/1PT02Zf4aI8B4OoINyUUnlWlm5tK8z8nn?usp=sharing">JSON</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>File Handling   </b></td>
+       <td align="center"><a href="https://fb.watch/uH_5SHcJml/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/11dJKkKtWihY3oe0Ua934nVIf5M49RRHB?usp=sharing">Notebook</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b> File Handling problems </b></td>
+       <td align="center"><a href="https://fb.watch/uJi2FVbz33/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/11dJKkKtWihY3oe0Ua934nVIf5M49RRHB?usp=sharing">Notebook</a> </td>
+    </tr>
+</tbody>
+<table>
+
+# Week 06
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>File and Directory Handling </b></td>
+       <td align="center"><a href="https://fb.watch/uNfHSmBaLJ/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/11dJKkKtWihY3oe0Ua934nVIf5M49RRHB?usp=sharing">Notebook</a> </td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b> OOP </b></td>
+    <td align="center"><a href="https://fb.watch/uOyT6qzBUb/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1LYleJt5qgwNTOyc5-P4LTdr5caUO6GhH?usp=sharing">Notebook </a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+      <td align="center"><b>Encapsulation </b></td>
+       <td align="center"><a href="https://fb.watch/uRdsUoGKJo/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1nw-RBkWU3EFWAQ5SzVkWNVn6rY_E9zWJ?usp=sharing">Notebook</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Inheritance   </b></td>
+       <td align="center"><a href="https://fb.watch/uRe5rML3sA/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1h0hbBqHsuatsjeNWria-wcOwFP_dtVFD?usp=sharing">1.Notebook</a>
+                          <a href="https://colab.research.google.com/drive/161w4zbzIc2U1SLIb0wv8yEdobzgWJiE5?usp=sharing">2.Notebook</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b> Polymorphism </b></td>
+       <td align="center"><a href="https://fb.watch/uSwzw9i40L/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/1-YS7lmrJXiOXkWqAaU5HjLyZAN1B8oKh?usp=sharing">Inheritance</a> 
+                            <a href="https://colab.research.google.com/drive/1FVQiwBKixjtyTPMQw5Orgnm2Lo6yx9Q7?usp=sharing">Polymorphism</a> </br>
+        </td>
+    </tr>
+</tbody>
+<table>
+ 
+# Week 07
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Topics</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>1</b></td>
+       <td align="center"><b>Abstraction  </b></td>
+       <td align="center"><a href="https://fb.watch/uWu0vMps6O/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1u1__7mEtevwBBda9IHajgFLQGJgLJ5A2?usp=sharing">Notebook</a> </td>
+    </tr>
+      <tr>
+    <td align="center"><b>2</b></td>
+    <td align="center"><b> Magic/Dunder Methods </b></td>
+    <td align="center"><a href="https://fb.watch/uXQ5ntbqnC/">Lecture Recording</a></td>
+    <td align="center" ><a href="https://colab.research.google.com/drive/1YBDlT_-Q5lQkCj5I1GqncTYeF1733SxK?usp=sharing">Notebook </a></td  
+  </tr>  
+  <tr>
+       <td align="center"><b>3</b></td>
+      <td align="center"><b>Instacnce/Class/Static Methods </b></td>
+       <td align="center"><a href="https://fb.watch/uZ6qzov4x0/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1IULKar87tp2EoCo4-3KiTz0xsIusx4px?usp=sharing">Notebook</a></td>
+    </tr>
+    <tr>
+       <td align="center"><b>4</b></td>
+       <td align="center"><b>Class/Static Methods   </b></td>
+       <td align="center"><a href="https://fb.watch/u_r1df-bDs/"> Lecture Recording</a> </td>
+      <td align="center" ><a href="https://colab.research.google.com/drive/1IULKar87tp2EoCo4-3KiTz0xsIusx4px?usp=sharing">Notebook</a> </td>
+    </tr>
+    <tr>
+       <td align="center"><b>5</b></td>
+       <td align="center"><b> Relationships in OOP </b></td>
+       <td align="center"><a href="https://fb.watch/u-IGU5gpvZ/"> Lecture Recording</a> </td>
+        <td align="center" ><a href="https://colab.research.google.com/drive/1M867b4MkBP_zz78QjhCncelWs1wANi0f?usp=sharing">Notebook</a> 
+                      </br>
+        </td>
+    </tr>
+</tbody>
+<table>
+
+
