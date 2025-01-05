@@ -19,21 +19,21 @@ The repository contains all the course-relevant material, such as slides, quizze
         <tr>
             <td align="center">
                 <a href="https://www.linkedin.com/in/muhammad-shaharyar-sarwar/">
-                    <img src= "https://avatars.githubusercontent.com/u/88059515?v=4" width="100px;" alt="Muhammad Shaharyar"/>
+                    <img src= "https://github.com/M-Shaharyar/7pm-Python-For--Absolute-Beginners-Session-ICodeGuru/blob/main/images/M.Shaharyar.jpeg" width="100px;" alt="Muhammad Shaharyar"/>
                     <br />
                     <sub><b>Muhammad Shaharyar</b></sub>
                 </a> 
             </td>
             <td align="center">
                 <a href="https://www.linkedin.com/in/muhammad-saqlainraza/">
-                    <img src="https://avatars.githubusercontent.com/u/77551019?v=4" width="100px;" alt="Muhammad Saqlain"/>
+                    <img src="https://github.com/M-Shaharyar/7pm-Python-For--Absolute-Beginners-Session-ICodeGuru/blob/main/images/Moh%20Saqlain.jpeg" width="100px;" alt="Muhammad Saqlain"/>
                     <br />
                     <sub><b>Muhammad Saqlain</b></sub>
                 </a> 
             </td>
            <td align="center">
                 <a href="https://www.linkedin.com/in/afsheenghuman/">
-                    <img src="https://avatars.githubusercontent.com/u/67103449?v=4" width="100px;" alt="Afsheen Ghuman"/>
+                    <img src="https://github.com/M-Shaharyar/7pm-Python-For--Absolute-Beginners-Session-ICodeGuru/blob/main/images/Afsheen%20Ghuman.jpeg" width="100px;" alt="Afsheen Ghuman"/>
                     <br />
                     <sub><b>Afsheen Ghuman</b></sub>
                 </a> 
