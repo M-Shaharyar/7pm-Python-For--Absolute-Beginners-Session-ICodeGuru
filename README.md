@@ -8,6 +8,8 @@ The repository contains all the course-relevant material, such as slides, quizze
 
 **Roadmap:** [Click here](https://docs.google.com/document/d/1d7XEO82FrBYEvXBtJZmaLPb2j0HBPI6bHXGlxSkSwsA/edit?usp=sharing)
 
+**LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_pythonprogramming-learningtogether-techcommunity-activity-7250404397279547393-ckEC?utm_source=share&utm_medium=member_desktop)
+
 **Presenters Name:** [Click here](https://docs.google.com/spreadsheets/d/1U3FngL-DBnpTzivVZnhuvvu4bq7bWRettY8RmG4bGnw/edit?usp=sharing)
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
