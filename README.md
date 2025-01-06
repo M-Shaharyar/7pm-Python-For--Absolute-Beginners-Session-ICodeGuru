@@ -1,4 +1,4 @@
-# Welcome to the 7 pm-Python-For--Absolute-Beginners-Session-ICodeGuru
+# Welcome to the Python For Absolute Beginners 
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, quizzes, and collaborative notebook links.
@@ -11,8 +11,6 @@ The repository contains all the course-relevant material, such as slides, quizze
 **LinkedIn Post:** [Click here](https://www.linkedin.com/posts/muhammad-shaharyar-sarwar_pythonprogramming-learningtogether-techcommunity-activity-7250404397279547393-ckEC?utm_source=share&utm_medium=member_desktop)
 
 **Presenters Name:** [Click here](https://docs.google.com/spreadsheets/d/1U3FngL-DBnpTzivVZnhuvvu4bq7bWRettY8RmG4bGnw/edit?usp=sharing)
-
-**Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
 # Trainers & Moderators
 
