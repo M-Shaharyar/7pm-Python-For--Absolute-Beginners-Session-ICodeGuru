@@ -1,4 +1,4 @@
-# Welcome to the Python For Absolute Beginners 
+# Welcome to the Python For Absolute Beginners Course
 **Here, You'll Find:**
 <br>
 The repository contains all the course-relevant material, such as slides, quizzes, and collaborative notebook links.
